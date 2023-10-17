@@ -67,12 +67,12 @@ Whether to show weeks numbers
 
 ### hideExtraDays
 
-Whether to hide days of other months in the month page  
+Whether to hide days outside of the min/max date interval  
 <span style={{color: 'grey'}}>boolean</span>
 
 ### hideDaysOutOfInterval
 
-Whether to hide days outside of the min/max date interval  
+Whether to hide days of other months in the month page  
 <span style={{color: 'grey'}}>boolean</span>
 
 ### showSixWeeks
